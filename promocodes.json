@@ -1,0 +1,34 @@
+[
+  {
+    "reward": {
+      "crystals": 1000,
+      "bonusItems": {
+        "mine": 10,
+        "double_damage": 10,
+        "armor": 10,
+        "health": 10,
+        "n2o": 10
+      }
+    },
+    "code": "GTNK-0213-KIQW-9313-9913",
+    "usedByPlayers": [
+    ],
+    "type": "unique"
+  },
+  {
+    "reward": {
+      "crystals": 3500,
+      "bonusItems": {
+        "mine": 15,
+        "double_damage": 15,
+        "armor": 15,
+        "health": 15,
+        "n2o": 15
+      }
+    },
+    "code": "GTNK-8931-3891-STOE-0301",
+    "usedByPlayers": [
+    ],
+    "type": "unique"
+  }
+]

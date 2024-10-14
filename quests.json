@@ -1,0 +1,139 @@
+{
+  "baseQuests": [
+    {
+      "questId": 1000,
+      "conditionType": "EARN_CRYSTALS",
+      "finishCriteria": 250
+    },
+    {
+      "questId": 1001,
+      "conditionType": "EARN_CRYSTALS",
+      "finishCriteria": 500
+	},
+    {
+      "questId": 1002,
+      "conditionType": "EARN_CRYSTALS",
+      "finishCriteria": 1000
+    },
+    {
+      "questId": 2000,
+      "conditionType": "KILL",
+      "finishCriteria": 50
+    },
+    {
+	  "questId": 2001,
+      "conditionType": "KILL",
+      "finishCriteria": 75
+    },
+    {
+	  "questId": 2002,
+      "conditionType": "KILL",
+      "finishCriteria": 100
+    },
+    {
+      "questId": 3000,
+      "conditionType": "SCORE",
+      "finishCriteria": 250
+    },
+    {
+	  "questId": 3006,
+      "conditionType": "SCORE",
+      "finishCriteria": 350
+    },
+    {
+      "questId": 3001,
+      "conditionType": "SCORE",
+      "finishCriteria": 500
+    },
+    {
+	  "questId": 3002,
+      "conditionType": "SCORE",
+      "finishCriteria": 1000
+    },
+    {
+      "questId": 3003,
+      "conditionType": "SCORE_DM",
+      "finishCriteria": 250
+    },
+    {
+	  "questId": 3007,
+      "conditionType": "SCORE_DM",
+      "finishCriteria": 350
+    },
+    {
+	  "questId": 3004,
+      "conditionType": "SCORE_DM",
+      "finishCriteria": 500
+    },
+    {
+	  "questId": 3005,
+      "conditionType": "SCORE_DM",
+      "finishCriteria": 1000
+    },
+    {
+      "questId": 4000,
+      "conditionType": "FLAG_DELIVERED",
+      "finishCriteria": 5
+    },
+    {
+	  "questId": 4001,
+      "conditionType": "FLAG_DELIVERED",
+      "finishCriteria": 10
+    },
+    {
+	  "questId": 4002,
+      "conditionType": "FLAG_DELIVERED",
+      "finishCriteria": 15
+    },
+    {
+      "questId": 4500,
+      "conditionType": "POINT_CAPTURE",
+      "finishCriteria": 5
+    },
+    {
+	  "questId": 4501,
+      "conditionType": "POINT_CAPTURE",
+      "finishCriteria": 10
+    },
+    {
+	  "questId": 4500,
+      "conditionType": "POINT_CAPTURE",
+      "finishCriteria": 15
+    },
+    {
+      "questId": 5000,
+      "conditionType": "TAKE_BONUS",
+      "finishCriteria": 10
+    },
+    {
+      "questId": 5001,
+      "conditionType": "TAKE_BONUS",
+      "finishCriteria": 20
+    },
+    {
+      "questId": 5019,
+      "conditionType": "TAKE_BONUS_GOLD",
+      "finishCriteria": 1
+    },
+    {
+	  "questId": 5021,
+      "conditionType": "TAKE_BONUS_GOLD",
+      "finishCriteria": 2
+    },
+    {
+	  "questId": 5020,
+      "conditionType": "TAKE_BONUS_GOLD",
+      "finishCriteria": 3
+    },
+    {
+      "questId": 6000,
+      "conditionType": "END_BATTLE",
+      "finishCriteria": 3
+	},
+    {
+      "questId": 6001,
+      "conditionType": "END_BATTLE",
+      "finishCriteria": 5
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {"item_id":"armor","count":50,"rarity":0},
+  
+  {"item_id":"double_damage","count":50,"rarity":0},
+  
+  {"item_id":"n2o","count":50,"rarity":0},
+  
+  {"item_id":"mine","count":50,"rarity":0},
+  
+  {"item_id":"health","count":25,"rarity":0},
+  
+  {"item_id":"crystalls","count":1500,"rarity":0},
+  
+  {"item_id":"set_25","count":0,"rarity":0},
+  
+  {"item_id":"armor","count":100,"rarity":1},
+  
+  {"item_id":"double_damage","count":100,"rarity":1},
+  
+  {"item_id":"n2o","count":100,"rarity":1},
+  
+  {"item_id":"mine","count":100,"rarity":1},
+  
+  {"item_id":"health","count":50,"rarity":1},
+  
+  {"item_id":"crystalls","count":5000,"rarity":1},
+  
+  {"item_id":"set_50","count":0,"rarity":1},
+  
+  {"item_id":"no_supplies","count":0,"rarity":1},
+  
+  {"item_id":"up_score","count":0,"rarity":1},
+  
+  {"item_id":"set_100","count":0,"rarity":2},
+  
+  {"item_id":"crystalls","count":25000,"rarity":2},
+      
+  {"item_id":"violet","count":0,"rarity":2},
+  
+  {"item_id":"lightgreen","count":0,"rarity":2},
+  
+  {"item_id":"gold","count":0,"rarity":2},
+  
+  {"item_id":"jeans","count":0,"rarity":2},
+  
+  {"item_id":"disco","count":0,"rarity":2},
+  
+  {"item_id":"gamer","count":0,"rarity":2},
+  
+  {"item_id":"chillbro","count":0,"rarity":2},
+  
+  {"item_id":"set_300","count":0,"rarity":3},
+  
+  {"item_id":"crystalls","count":75000,"rarity":3},
+    
+  {"item_id":"flow","count":0,"rarity":3},
+  
+  {"item_id":"smokescreen","count":0,"rarity":3},
+  
+  {"item_id":"city","count":0,"rarity":3},
+  
+  {"item_id":"groza","count":0,"rarity":3},
+  
+  {"item_id":"adversity","count":0,"rarity":3},
+  
+  {"item_id":"disco2","count":0,"rarity":3},
+  
+  {"item_id":"glamcroc","count":0,"rarity":3},
+  
+  {"item_id":"abstract_lines","count":0,"rarity":3},
+  
+  {"item_id":"set_500","count":0,"rarity":4},
+  
+  {"item_id":"crystalls","count":125000,"rarity":4},
+  
+  {"item_id":"flamethrower_xt","count":0,"rarity":4},
+  
+  {"item_id":"railgun_xt","count":0,"rarity":4},
+  
+  {"item_id":"thunder_xt","count":0,"rarity":4},
+  
+  {"item_id":"ricochet_xt","count":0,"rarity":4},
+  
+  {"item_id":"wasp_xt","count":0,"rarity":4},
+  
+  {"item_id":"hornet_xt","count":0,"rarity":4},
+  
+  {"item_id":"viking_xt","count":0,"rarity":4},
+  
+  {"item_id":"mamont_xt","count":0,"rarity":4}
+]
